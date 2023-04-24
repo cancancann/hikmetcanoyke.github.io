@@ -150,6 +150,7 @@ body {
 }
 
 .Education {
+  margin-left:266px;
   font-size: large;
   display: flex;
   flex-direction: column;
